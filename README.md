@@ -1,11 +1,18 @@
 ORIGINAL APP Design Project - README Template
 NATURE WALK
+
 Table of Contents
+
 Overview
+
 Product Spec
+
 Wireframes
+
 Schema
+
 Overview
+
 Description
 Encyclopedia of animals/plants where people can take pictures of animals and plants and drop a location of where the photo was taken. Tentative: By clicking the location link a map shows up to the location.
 
@@ -13,22 +20,32 @@ App Evaluation
 [Evaluation of your app across the following attributes]
 
 Category:
+
 Mobile:
+
 Story:
+
 Market:
+
 Habit:
+
 Scope:
+
 Product Spec
-1. User Stories (Required and Optional)
+1. User Stories (Required and Optional):
 Required Must-have Stories
 
 User can sign up
-User can login / log out
-User can populate timeline with posts about an animal
-User can upload pictures and a description with post
-User can tag geo location of where they took a picture is at
-Optional Nice-to-have Stories
 
+User can login / log out
+
+User can populate timeline with posts about an animal
+
+User can upload pictures and a description with post
+
+User can tag geo location of where they took a picture is at
+
+Optional Nice-to-have Stories:
 User is displayed a map when clicking on the location
 …
 2. Screen Archetypes
