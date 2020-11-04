@@ -46,31 +46,52 @@ User can upload pictures and a description with post
 User can tag geo location of where they took a picture is at
 
 Optional Nice-to-have Stories:
+
 User is displayed a map when clicking on the location
 …
+
 2. Screen Archetypes
+
 Login / Register
+
 User can sign up
+
 User can login / log out
+
 Stream
+
 User can see a timeline with posts about animals
+
 Creation
+
 User post a picture with a description
+
 User can tag geo location of where they took a picture is at
+
 3. Navigation
+
 Tab Navigation (Tab to Screen)
 
 Profile Tab
+
 Home Tab
+
 Compose Tab
+
 Flow Navigation (Screen to Screen)
 
 [list first screen here]
+
 [list screen navigation here]
+
 …
+
 [list second screen here]
+
 [list screen navigation here]
+
 …
+
 Wireframes
 
 
@@ -110,10 +131,14 @@ Wireframes
             }
         });
         ```
+    
       - (Create/POST) Create a new like on a post
+      
       - (Create/POST) Create a new comment on a post
+      
       - (Delete) Delete existing comment
-   - Create Post Screen
+  
+  - Create Post Screen
       - (Create/POST) Create a new post object
       ```
        Post post = new Post();
