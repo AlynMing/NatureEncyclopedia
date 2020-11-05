@@ -93,8 +93,8 @@ Flow Navigation (Screen to Screen)
 …
 
 Wireframes
-![Alt Text] https://github.com/NatureEncyclopedia/NatureEncyclopedia/blob/main/WireFrame1.PNG
-![Alt Text] https://github.com/NatureEncyclopedia/NatureEncyclopedia/blob/main/Wireframe2.PNG
+![Alt Text] (https://github.com/NatureEncyclopedia/NatureEncyclopedia/blob/main/WireFrame1.PNG)
+![Alt Text] (https://github.com/NatureEncyclopedia/NatureEncyclopedia/blob/main/Wireframe2.PNG)
 
 
 
