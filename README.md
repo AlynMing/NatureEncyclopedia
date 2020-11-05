@@ -1,5 +1,5 @@
-ORIGINAL APP Design Project - README Template
-NATURE WALK
+
+# NATURE WALK
 
 Table of Contents
 
@@ -11,12 +11,12 @@ Wireframes
 
 Schema
 
-Overview
+## Overview
 
-Description
+### Description
 Encyclopedia of animals/plants where people can take pictures of animals and plants and drop a location of where the photo was taken. Tentative: By clicking the location link a map shows up to the location.
 
-App Evaluation
+### App Evaluation
 [Evaluation of your app across the following attributes]
 
 Category:
@@ -31,52 +31,42 @@ Habit:
 
 Scope:
 
-Product Spec
+## Product Spec
 1. User Stories (Required and Optional):
 Required Must-have Stories
 
-User can sign up
-
-User can login / log out
-
-User can populate timeline with posts about an animal
-
-User can upload pictures and a description with post
-
-User can tag geo location of where they took a picture is at
+- User can sign up
+- User can login / log out
+- User can populate timeline with posts about an animal
+- User can upload pictures and a description with post
+- User can tag geo location of where they took a picture is at
 
 Optional Nice-to-have Stories:
+- User is displayed a map when clicking on the location
 
-User is displayed a map when clicking on the location
-…
 
 2. Screen Archetypes
 
-Login / Register
+### Login / Register
 
-User can sign up
+- User can sign up
+- User can login / log out
 
-User can login / log out
+### Stream
+- User can see a timeline with posts about animals
 
-Stream
+### Creation
 
-User can see a timeline with posts about animals
-
-Creation
-
-User post a picture with a description
-
-User can tag geo location of where they took a picture is at
+- User post a picture with a description
+- User can tag geo location of where they took a picture is at
 
 3. Navigation
 
-Tab Navigation (Tab to Screen)
+## Tab Navigation (Tab to Screen)
 
-Profile Tab
-
-Home Tab
-
-Compose Tab
+- Profile Tab
+- Home Tab
+- Compose Tab
 
 Flow Navigation (Screen to Screen)
 
@@ -90,14 +80,10 @@ Flow Navigation (Screen to Screen)
 
 [list screen navigation here]
 
-…
 
-Wireframes
+## Wireframes
 ![Alt Text](https://github.com/NatureEncyclopedia/NatureEncyclopedia/blob/main/WireFrame1.PNG)
 ![Alt Text](https://github.com/NatureEncyclopedia/NatureEncyclopedia/blob/main/Wireframe2.PNG)
-
-
-
 
 
 [BONUS] Digital Wireframes & Mockups
